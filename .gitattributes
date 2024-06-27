@@ -32,6 +32,7 @@
 *.png     binary
 *.sdf     binary
 
+*.cmake linguist-language=Dart
 *.java linguist-language=Dart
 *.kt linguist-language=Dart
 *.swift linguist-language=Dart
